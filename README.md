@@ -4,7 +4,7 @@ The aim for this program was to better myself with C# and also learn Unity's Gam
 
 RepRevolution is just like any other idle game, except gym themed. You can click the main button to bring in more currency ("Reps") and then use that currency to buy upgrades to continue making more "Reps"
 
-[RepRevolution Demo](http://youtube.link.goes.here)
+[RepRevolution Demo]([http://youtube.link.goes.here](https://youtu.be/33sqism9Kac))
 
 # Development Environment
 
